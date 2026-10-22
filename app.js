@@ -1,27 +1,27 @@
 let CafeMenu =  [
 {name: "Croquembouche", price: 175, type: "food", stock: 2},
-{name: "Mille Feuille", price: 7, type: "food",},
-{name: "Madeline", price: , type: "food",},
-{name: "Financier", price: , type: "food",},
-{name: "Gâteau St. Honoré", price: , type: "food"}
-{name: "Gâteau Basque", price: , type: "food"}
-{name: "Mille Crêpe", price: , type: "food"}
-{name: "Tiramisu", price: , type: "food"}
-{name: "Strawberry Cream Pie", price: , type: "food"}
-{name: "Pavlova", price: , type: "food"}
-{name: "Panna Cotta", price: , type: "food"}
-{name: "Crème Brûlée", price: , type: "food"}
-{name: "Macarons", price: , type: "food"}
-{name: "Dulce de Leche", price: , type: "food"}
+{name: "Mille Feuille", price: 7, type: "food", stock: 2},
+{name: "Madeline", price: , type: "food", stock: 2},
+{name: "Financier", price: , type: "food", stock: 2},
+{name: "Gâteau St. Honoré", price: , type: "food", stock: 2},
+{name: "Gâteau Basque", price: , type: "food", stock: 2},
+{name: "Mille Crêpe", price: , type: "food", stock: 2},
+{name: "Tiramisu", price: , type: "food", stock: 2},
+{name: "Strawberry Cream Pie", price: , type: "food", stock: 2},
+{name: "Pavlova", price: , type: "food", stock: 2},
+{name: "Panna Cotta", price: , type: "food", stock: 2},
+{name: "Crème Brûlée", price: , type: "food", stock: 2},
+{name: "Macarons", price: , type: "food", stock: 2},
+{name: "Dulce de Leche", price: , type: "food", stock: 2},
 {name: "Marble Loaf Cake", price: , type: "food", stock: 8},
 {name: "Baked Alaska", price: 80, type: "food", stock: 3},
 
-{name: "Water", price: , type: "drink"}
-{name: "Coffee", price: , type: "drink"}
-{name: "Affogato", price: , type: "drink"}
-{name: "Tea", price: , type: "drink"}
-{name: "Milk Tea", price: , type: "drink"}
-{name: "Hot Chocolate", price: , type: "drink"}
+{name: "Water", price: 1.75, type: "drink", stock: 20},
+{name: "Coffee", price: 5.99, type: "drink", stock: 21},
+{name: "Affogato", price: 9.99, type: "drink", stock: 2},
+{name: "Tea", price: 6.25, type: "drink", stock: 19},
+{name: "Milk Tea", price: 7.50, type: "drink", stock: 25},
+{name: "Hot Chocolate", price: , type: "drink", stock: 2},
 ]
 
 
